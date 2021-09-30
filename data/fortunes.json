@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "message": "love is around the corner",
+        "spirit_animal": "unicorn",
+        "lucky_number": 9
+    },
+    {
+        "id": 2,
+        "message": "You will die td @4:20",
+        "spirit_animal": "rat",
+        "lucky_number": 69
+    },
+    {
+        "id": 3,
+        "message": "Fire Benders are real!!!",
+        "spirit_animal": "Cat",
+        "lucky_number": 46
+    },
+    {
+        "id": 4,
+        "message": "Cats are better than dogs",
+        "spirit_animal": "Dog",
+        "lucky_number": 6
+    },
+    {
+        "id": 5,
+        "message": "You will never find Real Love",
+        "spirit_animal": "ant",
+        "lucky_number": 13
+    }
+]
